@@ -1,4 +1,4 @@
-module toqbot.com/rat-king
+module github.com/mdonahoe/rat-king
 
 go 1.19
 
