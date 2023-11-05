@@ -1,0 +1,7 @@
+sleep 1
+curl http://google.com
+curl asdf
+git grep color
+sleep 4
+find . -name "config"
+ls -la
